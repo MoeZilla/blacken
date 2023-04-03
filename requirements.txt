@@ -1,4 +1,6 @@
 diffusers 
+fastapi
+uvicorn
 transformers
 accelerate 
 scipy 
